@@ -12,4 +12,6 @@ I was mind blown by the power of our browsers and JS lang!
 # Future Scopes
 This project can be used for facial detection and saving the results in the database instead of analysing the video in the serverside, everything can be done in client side
 Also, this is only for 1-1 connection, can be made for many-many!
-PS: this code has a probable deadlock condition, if rectifed I will update it
+
+# PS
+This code has a probable deadlock condition, if rectifed I will update it
