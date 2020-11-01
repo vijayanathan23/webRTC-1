@@ -1,6 +1,7 @@
 # webRTC-1
 Basic webRTC for 2 person video chatting
 Used langauge : Node Js and Javascript for browsers
+Also socket.io is used for easy client-server communication!
 server is just yused for connection once connected its the two browsers which do the communication, meaning after connection if the server is turned off still the RTC will happen!
 
 Lot of companies like MSTEAMS,google meet,campk12,whitehat jr use the same technology for real time technology!
